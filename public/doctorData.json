@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Devid Miller",
+    "about": "He is child spacialist.He have been working with us since 2000",
+    "spacial": "child Spacialist",
+    "img": "https://i.ibb.co/HXQppNX/doctor1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sumalia Sumi",
+    "about": "He is hart spacialist.He have been working with us since 2010",
+    "spacial": "Hart Spacialist",
+    "img": "https://i.ibb.co/qRjHbdx/doctor2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Celly",
+    "about": "He is Physiciologist.He have been working with us since 2010",
+    "spacial": "Physiciologist",
+    "img": "https://i.ibb.co/r4QbWc1/doctor3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Afsana Mimi",
+    "about": "He is Neurologists.He have been working with us since 2003",
+    "spacial": "Neurologists",
+    "img": "https://i.ibb.co/W3Dk9kc/doctor4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Habiba Akther",
+    "about": "He is Radiologists.He have been working with us since 2000",
+    "spacial": "Radiologists",
+    "img": "https://i.ibb.co/LDKTZVZ/doctor5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Devid Miller",
+    "about": "He is Emergency physicians.He have been working with us since 2018",
+    "spacial": "Emergency physicians",
+    "img": "https://i.ibb.co/KWH1xFr/doctor6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Katrina Kaif",
+    "about": "He is Anesthesiologists.He have been working with us since 2015",
+    "spacial": "Anesthesiologists",
+    "img": "https://i.ibb.co/dmMtHpk/doctor7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Steven Smith",
+    "about": "He is Cardiologists.He have been working with us since 2005",
+    "spacial": "Cardiologists",
+    "img": "https://i.ibb.co/D5F9FSs/doctor8.jpg"
+  }
+]

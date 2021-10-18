@@ -1,0 +1,55 @@
+.service-box{
+  box-shadow: 0px 7px 20px 1px rgba(0, 0, 0, 0.1);
+}
+.service-box a{
+  border-top: 1px solid rgba(128, 128, 128, 0.116);
+}
+.service-box:hover img{
+  transform: scale(1.1);
+}
+.service-box:hover h1{
+  background: #b01842;
+}
+.service-box:hover a{
+  letter-spacing: 1px;
+  color: #48D1CC;
+}
+
+/* doctors */
+
+.doctor-box{
+  box-shadow: 0px 7px 20px 1px rgba(0, 0, 0, 0.1);
+}
+.doctor-box .doctor-img{
+  position: relative;
+}
+.doctor-box .doctor-img::after{
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  background: rgba(255, 255, 255, 0.8);
+  opacity: 0;
+  transition: 0.5s ease opacity;
+}
+.doctor-box .doctor-img button{
+  position: absolute;
+  transition: 0.3s ease-in-out;
+  left: 50%;
+  bottom: -50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  opacity: 0;
+}
+.doctor-box:hover .doctor-img::after{
+  opacity: 1;
+}
+.doctor-box:hover .doctor-img button{
+  bottom: 30%;
+  opacity: 1;
+}
+.socila{
+  border-top:1px solid rgba(0, 0, 0, 0.1);
+}

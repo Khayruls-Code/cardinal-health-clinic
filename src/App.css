@@ -23,7 +23,7 @@ input{
   background-repeat: no-repeat;
 }
 .about-appoinment{
-  min-height: 30vh;
+  min-height: 40vh;
 }
 .appoinment-container{
   flex: 0.6;
@@ -39,6 +39,8 @@ input{
 .appoinment input{
   border:1px solid rgba(128, 128, 128, 0.445) ;
 }
+
+/* services */
 
 @media only screen and (max-width:1100px){
   .appoinment{
@@ -76,5 +78,8 @@ input{
   .header-btns a{
     padding: 8px 10px;
     font-size: 13px;
+  }
+  .section-title h1{
+    font-size: 30px;
   }
 }

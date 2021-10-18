@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Family Physician",
+    "desc": "Family physicians possess unique attitudes, skills and knowledge which qualify them to provide ongoing, comprehensive medical care to each member of the family. A family physician is a doctor who has received at least three years of specialty training (beyond medical school) in the broad disciplines of primary care. These include in-depth coverage of adult and pediatric medicine, preventive care and OB care. Because of their training, family physicians are uniquely qualified to serve as Primary Care Providers",
+    "img": "https://i.ibb.co/4Kn7vWh/service1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Emergency Team",
+    "desc": "Family physicians possess unique attitudes, skills and knowledge which qualify them to provide ongoing, comprehensive medical care to each member of the family. A family physician is a doctor who has received at least three years of specialty training (beyond medical school) in the broad disciplines of primary care. These include in-depth coverage of adult and pediatric medicine, preventive care and OB care. Because of their training, family physicians are uniquely qualified to serve as Primary Care Providers",
+    "img": "https://i.ibb.co/Fn3NWGM/service2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cardiology",
+    "desc": "Family physicians possess unique attitudes, skills and knowledge which qualify them to provide ongoing, comprehensive medical care to each member of the family. A family physician is a doctor who has received at least three years of specialty training (beyond medical school) in the broad disciplines of primary care. These include in-depth coverage of adult and pediatric medicine, preventive care and OB care. Because of their training, family physicians are uniquely qualified to serve as Primary Care Providers",
+    "img": "https://i.ibb.co/nDZgT6q/service3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Covid-19 Service",
+    "desc": "Family physicians possess unique attitudes, skills and knowledge which qualify them to provide ongoing, comprehensive medical care to each member of the family. A family physician is a doctor who has received at least three years of specialty training (beyond medical school) in the broad disciplines of primary care. These include in-depth coverage of adult and pediatric medicine, preventive care and OB care. Because of their training, family physicians are uniquely qualified to serve as Primary Care Providers",
+    "img": "https://i.ibb.co/VH77Pwy/service4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Peidatry",
+    "desc": "Family physicians possess unique attitudes, skills and knowledge which qualify them to provide ongoing, comprehensive medical care to each member of the family. A family physician is a doctor who has received at least three years of specialty training (beyond medical school) in the broad disciplines of primary care. These include in-depth coverage of adult and pediatric medicine, preventive care and OB care. Because of their training, family physicians are uniquely qualified to serve as Primary Care Providers",
+    "img": "https://i.ibb.co/S3YPQsy/service5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Surgery",
+    "desc": "Family physicians possess unique attitudes, skills and knowledge which qualify them to provide ongoing, comprehensive medical care to each member of the family. A family physician is a doctor who has received at least three years of specialty training (beyond medical school) in the broad disciplines of primary care. These include in-depth coverage of adult and pediatric medicine, preventive care and OB care. Because of their training, family physicians are uniquely qualified to serve as Primary Care Providers",
+    "img": "https://i.ibb.co/tC3PXRm/service6.jpg"
+  }
+]

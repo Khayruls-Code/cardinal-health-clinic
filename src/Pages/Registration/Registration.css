@@ -1,0 +1,35 @@
+.login-regi{
+  background-image: url(../../images/login.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #efefef;
+  padding: 50px 0 120px;
+}
+.form-container{
+  background-color: #fff;
+}
+.form-container .form-header a{
+  padding: 15px 0;
+}
+.form-container form .form-control{
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  margin: 15px 0;
+}
+.form-container form .icon{
+  width: 50px;
+  color: #fff;
+  font-size: 20px;
+}
+.form-container form input{
+  width: calc(100% - 60px);
+}
+.form-container form input[type='submit']{
+  width: 100%;
+}
+.google{
+  background: #e8554e;
+}
+.facebook{
+  background: #395899;
+}

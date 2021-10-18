@@ -26,7 +26,7 @@ const ServiceDetails = () => {
   const { name, img, desc } = service
 
   return (
-    <div className="service-details mt-12">
+    <div className="service-details mt-12 mb-36">
       <div className='container md:flex justify-between gap-12'>
         <div className="left mb-12 md:mb-0">
           <img className='w-full' src={img} alt="" />

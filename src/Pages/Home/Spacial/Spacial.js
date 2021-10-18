@@ -9,7 +9,7 @@ const Spacial = () => {
       .then(data => setSpacials(data))
   }, [])
   return (
-    <div className='mb-16 mt-16'>
+    <div className='mb-32 mt-16'>
       <div className='container'>
         <div className="section-title">
           <h1 className='uppercase text-4xl text-center font-semibold text-primary'><span className='text-text_dark'>Why Patient</span> Choose Us</h1>

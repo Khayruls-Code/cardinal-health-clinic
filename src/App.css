@@ -12,7 +12,8 @@
   z-index: 100;
 }
 .header-btns a,
-input{
+input,
+.subscribe-field{
   border-width: 1px;
 }
 .hero{

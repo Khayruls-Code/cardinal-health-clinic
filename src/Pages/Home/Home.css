@@ -53,3 +53,83 @@
 .socila{
   border-top:1px solid rgba(0, 0, 0, 0.1);
 }
+
+/* spacial */
+.spacial-box{
+  padding: 50px 30px 20px;
+  transition: 0.3s ease background-color;
+}
+.spacial-box .icon{
+  top: -35px;
+  width: 70px;
+  height: 70px;
+  background: #fff;
+  transition: 0.3s ease background-color;
+}
+.spacial-box:first-child{
+  background: #ffcccc;
+}
+.spacial-box:first-child:hover{
+  box-shadow: 0px 0px 20px 0px #ffcccc;
+  background-color: #fff;
+}
+.spacial-box:first-child .icon{
+  box-shadow: 0px 0px 20px 0px #ffcccc;
+  background: #fff;
+}
+.spacial-box:first-child:hover .icon{
+  background-color: #ffcccc;
+}
+.spacial-box:nth-child(2){
+  background: #b6cfff;
+}
+.spacial-box:nth-child(2):hover{
+  box-shadow: 0px 0px 20px 0px #b6cfff;
+  background-color: #fff;
+}
+.spacial-box:nth-child(2) .icon{
+  box-shadow: 0px 0px 20px 0px #b6cfff;
+  background: #fff;
+}
+.spacial-box:nth-child(2):hover .icon{
+  background-color: #b6cfff;
+}
+.spacial-box:last-child{
+  background: #e9bdf8;
+}
+.spacial-box:last-child:hover{
+  box-shadow: 0px 0px 20px 0px #e9bdf8;
+  background-color: #fff;
+}
+.spacial-box:last-child .icon{
+  box-shadow: 0px 0px 20px 0px #e9bdf8;
+  background: #fff;
+}
+.spacial-box:last-child:hover .icon{
+  background-color: #e9bdf8;
+}
+
+.spacial-box p{
+  font-size: 14px;
+}
+.spacial-box:hover button{
+  letter-spacing: 1px;
+}
+
+/* footer */
+.footer{
+  background-image: url('../../images/footer.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #48D1CC;
+  padding: 100px 0 0px;
+  margin-top: 120px;
+}
+.footer .subscribe-box{
+  top: -60px;
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 850px;
+  left: 50%;
+  transform: translateX(-50%);
+}

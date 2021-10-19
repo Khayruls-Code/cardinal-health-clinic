@@ -17,14 +17,14 @@ const Header = () => {
     <div className="header py-3 lg:py-0 shadow sticky top-0 w-full bg-white">
       <div className='container flex items-center justify-between'>
         <div className="logo">
-          <img className='w-52' src={logo} alt="" />
+          <NavLink to='/'><img className='w-52' src={logo} alt="" /></NavLink>
         </div>
         <div className={!isHide ? "navigation hide" : "navigation"}>
           <ul>
             <li>
-              <NavLink activeStyle={activeStyle} className='py-5 inline-block px-2 mx-4 text-lg font-medium' to='/home'>Home</NavLink>
-              <NavLink activeStyle={activeStyle} className='py-5 inline-block px-2 mx-4 text-lg font-medium' to='/Contact'>Contact</NavLink>
-              <NavLink activeStyle={activeStyle} className='py-5 inline-block px-2 mx-4 text-lg font-medium' to='/Pricing'>Pricing</NavLink>
+              <NavLink onClick={handleMenu} activeStyle={activeStyle} className='py-5 inline-block px-2 mx-4 text-lg font-medium' to='/home'>Home</NavLink>
+              <NavLink onClick={handleMenu} activeStyle={activeStyle} className='py-5 inline-block px-2 mx-4 text-lg font-medium' to='/updates'>Covid Updates</NavLink>
+              <NavLink onClick={handleMenu} activeStyle={activeStyle} className='py-5 inline-block px-2 mx-4 text-lg font-medium' to='/pricing'>Pricing</NavLink>
             </li>
           </ul>
         </div>

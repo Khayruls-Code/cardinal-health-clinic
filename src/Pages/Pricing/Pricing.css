@@ -1,0 +1,13 @@
+.pricing-row:nth-child(even){
+  flex-direction: row-reverse;
+}
+.pricing-row .price-img img{
+  transition: 0.5s ease transform;
+}
+.pricing-row .price-info{
+  background: #2c2c54;
+  color: #fff;
+}
+.pricing-row:hover .price-img img{
+  transform: scale(1.2);
+}

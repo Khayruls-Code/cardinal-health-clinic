@@ -12,6 +12,9 @@ import Login from './Pages/Login/Login';
 import Registration from './Pages/Registration/Registration';
 import AuthProvider from './AuthProvider/AuthProvider';
 import PrivateRoute from './PrivateRoute/PrivateRoute';
+import NotFound from './Pages/NotFound/NotFound'
+import Pricing from './Pages/Pricing/Pricing'
+import Updates from './Pages/Home/Home/Updates/Updates';
 
 function App() {
   return (
@@ -28,11 +31,20 @@ function App() {
           <PrivateRoute path='/service/:serviceId'>
             <ServiceDetails />
           </PrivateRoute>
+          <PrivateRoute path='/pricing'>
+            <Pricing />
+          </PrivateRoute>
+          <PrivateRoute path='/updates'>
+            <Updates />
+          </PrivateRoute>
           <Route path='/login'>
             <Login />
           </Route>
           <Route path='/registration'>
             <Registration />
+          </Route>
+          <Route path='*'>
+            <NotFound />
           </Route>
         </Switch>
         <Footer />

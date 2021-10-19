@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "INVACARE MEDLEY ERGO LOW CARE BED WITH RAILS",
+    "desc": "Profiling beds are often necessary to provide proper support and ease of care for the patient and carer alike, but finding one with appropriate functionality and safety on a budget can be difficult. The Invacare Medley Ergo Low Profiling Bed is designed to solve this problem, as it provides the perfect balance between budget, functionality and quality requirements. With four-section mattress profiling, an extremely low height and shear-reducing operation, this bed is the perfect profiling solution for both patients and carers.",
+    "price": 400,
+    "img": "https://i.ibb.co/V9TJKbK/1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "ALERTA LOMOND STANDARD BED WALNUT",
+    "desc": "The Alerta Lomond Standard Bed in Walnut is just one of many affordable care beds in our range. Featuring an electrically adjustable backrest, 3-year warranty on the bed frame and an attractive walnut finish, the Alerta Lomond Standard Bed  is an efficient and must have care bed for patients at home or in the care setting. ",
+    "price": 320,
+    "img": "https://i.ibb.co/njLtx9Z/2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "ALERTA LOMOND STANDARD BED OAK",
+    "desc": "The Alerta Lomond Standard Bed is just one of many affordable care beds in our range. Featuring an electrically adjustable backrest, 3-year warranty on the bed frame and an attractive walnut finish, the Alerta Lomond Standard Bed  is an efficient and must have care bed for patients at home or in the care setting. ",
+    "price": 600,
+    "img": "https://i.ibb.co/Sr5BLJd/3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "ALERTA LOMOND LOW BED OAK",
+    "desc": "Profiling beds are often necessary to provide proper support and ease of care for the patient and carer alike, but finding one with appropriate functionality and safety on a budget can be difficult. The Invacare Medley Ergo Low Profiling Bed is designed to solve this problem, as it provides the perfect balance between budget, functionality and quality requirements. With four-section mattress profiling, an extremely low height and shear-reducing operation, this bed is the perfect profiling solution for both patients and carers.",
+    "price": 350,
+    "img": "https://i.ibb.co/6NtjqJt/4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "INVACARE MEDLEY ERGO LOW NO RAILS",
+    "desc": "Profiling beds are often necessary to provide proper support and ease of care for the patient and carer alike, but finding one with appropriate functionality and safety on a budget can be difficult. The Invacare Medley Ergo Low Profiling Bed is designed to solve this problem, as it provides the perfect balance between budget, functionality and quality requirements. With four-section mattress profiling, an extremely low height and shear-reducing operation, this bed is the perfect profiling solution for both patients and carers.",
+    "price": 400,
+    "img": "https://i.ibb.co/mBX2Yck/5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "INVACARE MEDLEY ERGO SELECT WITH RAILS & BED END COVERS",
+    "desc": "The Medley Ergo Select Profiling Bed is an attractive, homely design upgrade to the Medley Ergo with wooden side rails. The leg support is equipped with rastofix to enable individual positioning of the leg support. All the Medley Ergo profiling beds are the perfect balance of budget, functionality and quality requirements. In essence, they offer cost effective patient care. They are also easy to transport and assemble. The four-sectioned profiling mattress support allows for a range of height combinations, providing an ideal position for the carer and comfort for the user. To download and view a PDF brochure on the range, please click here.",
+    "price": 450,
+    "img": "https://i.ibb.co/FDFpTJT/6.jpg"
+  }
+]

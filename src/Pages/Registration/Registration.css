@@ -5,6 +5,7 @@
   background-repeat: no-repeat;
   background-color: #efefef;
   padding: 50px 0 120px;
+  background-attachment: fixed;
 }
 .form-container{
   background-color: #fff;
@@ -15,6 +16,7 @@
 .form-container form .form-control{
   border: 1px solid rgba(0, 0, 0, 0.1);
   margin: 15px 0;
+  overflow: hidden;
 }
 .form-container form .icon{
   width: 50px;
@@ -24,7 +26,7 @@
 .form-container form input{
   width: calc(100% - 60px);
 }
-.form-container form input[type='submit']{
+.form-container form input[type="submit"]{
   width: 100%;
 }
 .google{

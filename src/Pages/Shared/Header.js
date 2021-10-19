@@ -31,9 +31,15 @@ const Header = () => {
         <div className="header-btns">
           {
             user.email ?
-              <div className='flex gap-4'>
+              <div className='flex gap-4 items-center'>
                 <button onClick={singOutUser} className='px-6 py-2 bg-primary border-primary rounded-full text-white font-medium transition-bg duration-500'>Sing Out</button>
-                <img className='w-12 h-12 rounded-full' src={user.photoURL || user.displayName} alt="" />
+                {
+                  user.photoURL === null ?
+                    <p className='text-text_primary text-lg border-b-2 border-dashed'>{user.displayName}</p>
+                    :
+                    <img className='w-12 h-12 rounded-full' src={user.photoURL} alt="" />
+                }
+
               </div>
               :
               <div>
